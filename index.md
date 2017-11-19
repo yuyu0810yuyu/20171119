@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yuyu0810yuyu/20171119/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuyu0810yuyu/20171119/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title>票選可愛動物</title>
+</head>
+<body bgcolor="#5599FF" text="#FFBB00">
+<center>
+<h1><font face="標楷體">寵物一籮筐</font></h1>
+<h2><font face="微軟正黑體">比比誰最可愛呢</font></h2>
+<br>
+<img src="http://www.astrologycircle.com/blog/wp-content/uploads/2014/01/cockatiels.jpg" height="200" width="300" title="鸚鵡" alt="鸚鵡">
+<img src="http://img0.lady8844.com/h035/h91/img201404101509480.jpg" height="200" width="300" title="海獺" alt="海獺">
+<img src="http://www.ixiupet.com/uploads/allimg/150602/3-1506020924540-L.jpg" height="200" width="300" title="蜜袋" alt="蜜袋">
+<br>
+<p>
+<font face="細明體" color="#F0BBFF">
+票選出你最喜歡的動物<br/>是誰？<i>一人三票投票</i>及<i>選出你的前三名</i>趕快踴躍參加。
+</font>
+</center>
+</body>
+</html>
